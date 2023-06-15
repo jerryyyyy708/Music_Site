@@ -1,0 +1,66 @@
+html {
+    font-size: 20px;
+    /*font-family: 'Qahiri', sans-serif;*/
+}
+
+
+#header {
+    line-height: 65px;
+    height: 65px;
+    box-shadow: 0px 2px 0px rgb(216, 213, 213);
+    font-size: 23px;
+}
+
+
+#back:hover {
+    background-color: rgb(177, 177, 177);
+    cursor: pointer;
+}
+
+#leftrow {
+    background-color: rgb(147, 212, 255);
+}
+
+.topcategory {
+    font-size:25px;
+}
+
+.category {
+    margin-top: 20px;
+    font-size:25px;
+}
+
+.item {
+    font-size: 20px;
+}
+
+.title {
+    font-weight: 1000;
+}
+
+#pend{
+    padding-top: 20px;
+}
+
+h4{
+    border-bottom: 2px solid rgb(0, 0, 0);
+    width: 1200px;
+}
+
+.pj_title {
+    font-weight: 1000;
+    float: left;
+}
+
+.pj_complete {
+    font-size: 18px;
+    color: green;
+    margin-top: 13px;
+}
+
+.pj_ongoing {
+    font-size: 18px;
+    font-weight: 900;
+    color: rgba(255, 111, 0, 0.881);
+    margin-top: 13px;
+}
