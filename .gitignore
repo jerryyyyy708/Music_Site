@@ -1,0 +1,23 @@
+# Hugo generated files
+public/
+resources/_gen/
+hugo_stats.json
+
+# Dependency directories (Node.js)
+node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Personal editor/IDE folders
+.idea/
+.vscode/
+
+# Local development files
+config/development.toml
+
+# Other files that should not be part of the repository
+*.log
+*.tmp
+secrets.json
