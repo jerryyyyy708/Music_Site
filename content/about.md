@@ -7,7 +7,7 @@ keywords: ["about-me", "about-hugo"]
 type: about
 ---
 
-![](/static/new_jer.jpg)
+![](/imgs/new_jer.jpg)
 
 資工所碩一的研究生，因為寫程式太痛苦沒地方抒發情感(?，決定編曲跟寫歌來記錄心情。
 喜歡冬天的情歌，天氣熱的時候歌的產量會比較低。
