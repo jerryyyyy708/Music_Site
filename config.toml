@@ -17,7 +17,7 @@ DefaultContentLanguageInSubdir = true
       introPhoto = "/new_jer.jpg"
       logo = "/blist-logo.png"
     [[languages.zh-tw.menu.main]]
-        name = "Blog"
+        name = "Song"
         url = "blog"
         weight = 1
 
@@ -33,7 +33,7 @@ DefaultContentLanguageInSubdir = true
 
     [[languages.zh-tw.menu.main]]
         name = "Top Post"
-        url = "/zh-tw/blog/emoji-support/"
+        url = "/zh-tw/blog/deadlock/"
         weight = 4
 
 
@@ -80,7 +80,7 @@ DefaultContentLanguageInSubdir = true
 
   # Add support for Table of contents
   # Can be added to a page level also in markdown frontmatter
-  toc = true
+  toc = false
 
   # Hides the thumbnail in post view
   # Thumbnails in home and blog pages will still be shown
