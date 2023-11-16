@@ -1,7 +1,8 @@
-baseurl = "https://jerryyyyy708.github.io/Music_Site/"
+baseurl = "/"
 metaDataFormat = "yaml"
 title = "Jerrr Music Site"
 theme = "blist"
+canonifyURLs = true
 
 DefaultContentLanguage = "zh-tw"
 DefaultContentLanguageInSubdir = true
