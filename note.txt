@@ -1,0 +1,9 @@
+  [[params.homepage.social.icons]]
+    website = "linkedin"
+    url = "https://linkedin.com/in/"
+  [[params.homepage.social.icons]]
+    website = "github"
+    url = "https://github.com/"
+  [[params.homepage.social.icons]]
+    website = "medium"
+    url = "https://medium.com/"
