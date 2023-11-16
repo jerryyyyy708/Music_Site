@@ -33,7 +33,7 @@ DefaultContentLanguageInSubdir = true
 
     [[languages.zh-tw.menu.main]]
         name = "Top Post"
-        url = "/zh-tw/blog/deadlock/"
+        url = "/blog/deadlock/"
         weight = 4
 
 
