@@ -1,26 +1,24 @@
 ---
-author: Katheryn Fox
+author: Jerrr
 title: About Me
-date: 2021-07-15
-description:
-keywords: ["about-us", "about-hugo", "contact"]
+date: 2023-11-16
+description: 
+keywords: ["about-me", "about-hugo"]
 type: about
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+<img src = "/new_jer.jpg"></img>
 
-Hugo makes use of a variety of open source projects including:
+資工所碩一的研究生，因為寫程式太痛苦沒地方抒發情感(?，決定編曲跟寫歌來記錄心情。
+我喜歡寫冬天的情歌，天氣熱的時候歌的產量會比較低。
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+這個部落格主要會分享音樂方面的文章，像是歌曲的創作理念或一些演出的小故事。<br>
+想聽歌的話可以到我的 YouTube 或 StreetVoice，IG上則會分享一些照片或cover喔~<br>
+連結如下👇👇
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+- YT: https://www.youtube.com/@jerrr_swith_j
+- IG: https://instagram.com/jerrr_swith_j
+- SV: https://streetvoice.com/Jerrr
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+合作或演出邀約麻煩寄信到 lixinnnnn708@gmail.com 或直接私訊 IG ~
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
