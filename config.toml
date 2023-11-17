@@ -72,7 +72,7 @@ DefaultContentLanguageInSubdir = true
 
   # Used to hide the post metadata such as posted date, reading time and word count
   # Can be used at site level or page level
-  hideMeta = true
+  hideMeta = false
 
   # To hide "Other languages" option if the post is available in multiple languages
   # Can be used at site level or page level
@@ -80,7 +80,7 @@ DefaultContentLanguageInSubdir = true
 
   # Add support for Table of contents
   # Can be added to a page level also in markdown frontmatter
-  toc = false
+  toc = true
 
   # Hides the thumbnail in post view
   # Thumbnails in home and blog pages will still be shown
