@@ -3,11 +3,11 @@ author: Jerrr
 title: About Me
 date: 2023-11-16
 description: 
-keywords: ["about-me", "about-hugo"]
+keywords: ["about-me"]
 type: about
 ---
 
-![](/new_jer.jpg)
+![](/DSC01349.jpg)
 
 資工所碩一的研究生，因為寫程式太痛苦沒地方抒發情感(?，決定編曲跟寫歌來記錄心情。
 我喜歡寫冬天的情歌，天氣熱的時候歌的產量會比較低。
