@@ -1,9 +1,9 @@
 ---
 author: "Jerrr"
-title: "這首歌妳聽到就好了"
+title: "[Music] 這首歌妳聽到就好了"
 date: 2022-05-02
 description: "寶貝生日快樂!"
-tags: ["pop song", "love song"]
+tags: ["pop", "love", "Music"]
 thumbnail: /131140.jpg
 lastmodify: 2023-11-19
 ---

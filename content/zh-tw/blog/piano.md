@@ -1,9 +1,9 @@
 ---
 author: "Jerrr"
-title: "音樂教室的鋼琴"
+title: "[Music] 音樂教室的鋼琴"
 date: 2021-10-24
 description: "改編自國小同學的朋友的經歷，因為覺得這故事蠻可愛的就寫成歌了。"
-tags: ["pop song", "love song"]
+tags: ["pop", "love", "Music"]
 thumbnail: /S__3752030.jpg
 lastmodify: 2023-11-19
 ---

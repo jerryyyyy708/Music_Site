@@ -1,4 +1,4 @@
 ---
 author: Jerrr
-title: Song List
+title: Posts
 ---

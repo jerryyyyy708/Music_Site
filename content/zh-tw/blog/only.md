@@ -1,9 +1,9 @@
 ---
 author: "Jerrr"
-title: "只想讓你看到"
+title: "[Music] 只想讓你看到"
 date: 2021-08-19
 description: "報喜不報憂。"
-tags: ["pop song"]
+tags: ["pop", "Music"]
 thumbnail: /237666711_1190749148058926_3209768395092591745_n.jpg
 lastmodify: 2023-11-20
 ---

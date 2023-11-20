@@ -1,9 +1,9 @@
 ---
 author: "Jerrr"
-title: "妳像"
+title: "[Music] 妳像"
 date: 2021-07-27
 description: "自學編曲的第一首作品!"
-tags: ["pop song", "love song"]
+tags: ["pop", "love", "Music"]
 thumbnail: /youlike.jpg
 lastmodify: 2023-11-20
 ---

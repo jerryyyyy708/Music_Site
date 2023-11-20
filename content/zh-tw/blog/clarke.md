@@ -1,9 +1,9 @@
 ---
 author: "Jerrr"
-title: "克拉碼頭 Clarke Quay"
+title: "[Music] 克拉碼頭 Clarke Quay"
 date: 2023-07-12
 description: "在新加坡交換學生時寫的歌!"
-tags: ["pop song", "love song"]
+tags: ["pop", "love", "Music"]
 thumbnail: /265294.jpg
 lastmodify: 2023-11-18
 ---

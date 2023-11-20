@@ -12,29 +12,32 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "中文"
     [languages.zh-tw.params]
-      introTitle = "Jerrr, 一個愛編曲的研究生"
+      introTitle = "Jerrr, 一個愛音樂的研究生"
       introSubtitle = "這種文青風格超不適合我，但我又找不到其他照片。"
       introPhoto = "/new_jer.jpg"
       logo = "/logo.png"
     [[languages.zh-tw.menu.main]]
-        name = "Song"
+        name = "Posts"
         url = "blog"
         weight = 1
-
+    [[languages.zh-tw.menu.main]]
+        name = "Music"
+        url = "tags/music"
+        weight = 3
     [[languages.zh-tw.menu.main]]
         name = "About"
         url = "page/about/"
         weight = 2
+    [[languages.zh-tw.menu.main]]
+        name = "Event"
+        url = "tags/event"
+        weight = 4
 
     [[languages.zh-tw.menu.main]]
         name = "Tags"
         url = "tags"
-        weight = 3
+        weight = 5
 
-    [[languages.zh-tw.menu.main]]
-        name = "Top Post"
-        url = "/blog/deadlock/"
-        weight = 4
 
 
 [params]

@@ -1,9 +1,9 @@
 ---
 author: "Jerrr"
-title: "第一次去耶誕城"
+title: "[Music] 第一次去耶誕城"
 date: 2022-12-24
 description: "原來耶誕城的風景，最美麗的是妳。"
-tags: ["pop song", "love song", "christmas"]
+tags: ["pop", "love", "christmas", "Music"]
 thumbnail: /S__4431895.jpg
 lastmodify: 2023-11-18
 ---

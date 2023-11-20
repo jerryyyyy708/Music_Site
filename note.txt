@@ -7,3 +7,8 @@
   [[params.homepage.social.icons]]
     website = "medium"
     url = "https://medium.com/"
+
+        [[languages.zh-tw.menu.main]]
+        name = "Top Post"
+        url = "/blog/deadlock/"
+        weight = 6

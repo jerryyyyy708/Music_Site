@@ -1,9 +1,9 @@
 ---
 author: "Jerrr"
-title: "死結 Deadlock"
+title: "[Music] 死結 Deadlock"
 date: 2022-08-08
 description: "作業系統會有死結，人與人之間也會有死結。"
-tags: ["pop song", "love song", "cs"]
+tags: ["pop", "love", "cs","Music"]
 thumbnail: /deadlock.jpg
 lastmodify: 2023-11-17
 ---
