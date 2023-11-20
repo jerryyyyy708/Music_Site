@@ -13,7 +13,7 @@ DefaultContentLanguageInSubdir = true
     languageName = "中文"
     [languages.zh-tw.params]
       introTitle = "Jerrr, 一個愛編曲的研究生"
-      introSubtitle = "這種文青風格超不適合我，但我又沒有其他好看的照片。"
+      introSubtitle = "這種文青風格超不適合我，但我又找不到其他照片。"
       introPhoto = "/new_jer.jpg"
       logo = "/logo.png"
     [[languages.zh-tw.menu.main]]
