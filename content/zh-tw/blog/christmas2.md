@@ -22,3 +22,6 @@ lastmodify: 2023-11-18
 
 ### Official Audio
 {{< youtube oAVCv7oVpdU >}}
+
+#### 文章連結
+Dcard: https://www.dcard.tw/f/persona_jerryyyyyyyyy/p/253904008

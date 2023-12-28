@@ -38,3 +38,6 @@ lastmodify: 2023-11-20
 
 以上就是在新加坡加入樂團的故事了~ 
 雖然只有加入樂團短短四個月，卻是學生生涯裡最難忘的回憶!
+
+#### 文章連結
+Dcard: https://www.dcard.tw/f/persona_jerryyyyyyyyy/p/252954812
