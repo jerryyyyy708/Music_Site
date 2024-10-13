@@ -58,8 +58,9 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4  # Update to v4 to avoid deprecation
+        uses: actions/upload-artifact@v4  # Correct action with latest version
         with:
+          name: public
           path: ./public
 
   # Deployment job
