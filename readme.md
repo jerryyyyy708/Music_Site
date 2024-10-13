@@ -6,3 +6,8 @@
 push: origin hugo_site
 
 embed YT: {{< youtube [id] >}}
+
+## 本地運行
+```
+hugo server
+```
