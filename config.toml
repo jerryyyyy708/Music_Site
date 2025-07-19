@@ -32,11 +32,15 @@ DefaultContentLanguageInSubdir = true
         name = "Event"
         url = "tags/event"
         weight = 4
+    [[languages.zh-tw.menu.main]]
+        name = "Links"
+        url = "page/links/"
+        weight = 5
 
     [[languages.zh-tw.menu.main]]
         name = "Tags"
         url = "tags"
-        weight = 5
+        weight = 6
 
 
 
