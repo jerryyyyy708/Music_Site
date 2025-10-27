@@ -14,7 +14,7 @@ DefaultContentLanguageInSubdir = true
     [languages.zh-tw.params]
       introTitle = "Jerrr, 一個愛音樂的研究生"
       introSubtitle = "冬天的情歌唱起來更有感覺。"
-      introPhoto = "/353198.jpg"
+      introPhoto = "/ZFC_9050.JPG"
       logo = "/logo.png"
     [[languages.zh-tw.menu.main]]
         name = "Posts"
